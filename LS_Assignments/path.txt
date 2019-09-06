@@ -1,0 +1,1 @@
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/microchip/xc8/v1.45/bin:/opt/microchip/xc8/v1.45/bin:/home/emertxe/LS_Assignments
